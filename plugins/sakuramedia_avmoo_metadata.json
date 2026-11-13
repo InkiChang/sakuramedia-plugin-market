@@ -10,11 +10,11 @@
   ],
   "official": true,
   "latest": {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata/releases/download/v0.1.0/sakuramedia_avmoo_metadata-0.1.0.zip",
-    "sha256": "ada87fe90177771f00885f126f0be8e3418fce63ef8f8443a5e6668f4261b696",
-    "published_at": "2026-11-15T13:28:58Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata/releases/download/v0.2.0/sakuramedia_avmoo_metadata-0.2.0.zip",
+    "sha256": "fc0934de91d6f743767b9b3e41c43beb5ad3d45d43e1a6a00d7bcd05f97ed2a0",
+    "published_at": "2026-11-16T11:59:33Z"
   },
   "display_name_i18n": {
     "zh-CN": "AVMOO",

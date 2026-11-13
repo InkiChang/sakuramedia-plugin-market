@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T08:48:28Z",
+  "updated_at": "2026-11-16T13:09:36Z",
   "plugins": [
     {
       "plugin_id": "sakuramedia_115_provider",
@@ -52,11 +52,11 @@
       ],
       "official": true,
       "latest": {
-        "version": "0.1.0",
+        "version": "0.2.0",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata/releases/download/v0.1.0/sakuramedia_avmoo_metadata-0.1.0.zip",
-        "sha256": "ada87fe90177771f00885f126f0be8e3418fce63ef8f8443a5e6668f4261b696",
-        "published_at": "2026-11-15T13:28:58Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata/releases/download/v0.2.0/sakuramedia_avmoo_metadata-0.2.0.zip",
+        "sha256": "fc0934de91d6f743767b9b3e41c43beb5ad3d45d43e1a6a00d7bcd05f97ed2a0",
+        "published_at": "2026-11-16T11:59:33Z"
       },
       "display_name_i18n": {
         "zh-CN": "AVMOO",
@@ -179,11 +179,11 @@
       ],
       "official": true,
       "latest": {
-        "version": "0.2.0",
+        "version": "0.3.0",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_javbus_metadata/releases/download/v0.2.0/sakuramedia_javbus_metadata-0.2.0.zip",
-        "sha256": "1a0b62a31547d48fc2eab96c7d58605d3e7662caad29ca0a5a462a0b9a5a7787",
-        "published_at": "2026-11-14T03:56:49Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia_javbus_metadata/releases/download/v0.3.0/sakuramedia_javbus_metadata-0.3.0.zip",
+        "sha256": "a903f015ab366e7de54c46f5c4b2c70aa6c2d13952021872b30728509f529f3d",
+        "published_at": "2026-11-16T12:56:13Z"
       },
       "display_name_i18n": {
         "zh-CN": "JavBus",
@@ -246,6 +246,33 @@
       "description_i18n": {
         "zh-CN": "提供 JavDB 热播、高评分、有码、无码、FC2 榜单及 TOP250 榜单，并注册定时同步任务；需要 JavDB 账号。",
         "en": "Provides JavDB trending, top-rated, censored, uncensored and FC2 charts plus TOP250 lists, and registers scheduled sync jobs; requires a JavDB account."
+      }
+    },
+    {
+      "plugin_id": "sakuramedia_javlibrary_metadata",
+      "display_name": "JavLibrary",
+      "description": "按番号从 JavLibrary 提供影片元数据、互动数与评论。",
+      "author": "tinypinglite",
+      "repo": "tinypinglite/sakuramedia_javlibrary_metadata",
+      "homepage": "https://github.com/tinypinglite/sakuramedia_javlibrary_metadata",
+      "categories": [
+        "metadata"
+      ],
+      "official": true,
+      "latest": {
+        "version": "0.1.0",
+        "host_api_version": 18,
+        "download_url": "https://github.com/tinypinglite/sakuramedia_javlibrary_metadata/releases/download/v0.1.0/sakuramedia_javlibrary_metadata-0.1.0.zip",
+        "sha256": "02a165a4dd320bd0e97c8deea1908b9b4138b3661d450f1fc26e401bba0d6c29",
+        "published_at": "2026-11-16T12:57:50Z"
+      },
+      "display_name_i18n": {
+        "zh-CN": "JavLibrary",
+        "en": "JavLibrary"
+      },
+      "description_i18n": {
+        "zh-CN": "按番号从 JavLibrary 提供影片元数据、互动数与评论。",
+        "en": "Provides movie metadata, interaction stats and reviews from JavLibrary by movie number."
       }
     },
     {

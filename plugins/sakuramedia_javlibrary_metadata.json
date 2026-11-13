@@ -1,0 +1,27 @@
+{
+  "plugin_id": "sakuramedia_javlibrary_metadata",
+  "display_name": "JavLibrary",
+  "description": "按番号从 JavLibrary 提供影片元数据、互动数与评论。",
+  "author": "tinypinglite",
+  "repo": "tinypinglite/sakuramedia_javlibrary_metadata",
+  "homepage": "https://github.com/tinypinglite/sakuramedia_javlibrary_metadata",
+  "categories": [
+    "metadata"
+  ],
+  "official": true,
+  "latest": {
+    "version": "0.1.0",
+    "host_api_version": 18,
+    "download_url": "https://github.com/tinypinglite/sakuramedia_javlibrary_metadata/releases/download/v0.1.0/sakuramedia_javlibrary_metadata-0.1.0.zip",
+    "sha256": "02a165a4dd320bd0e97c8deea1908b9b4138b3661d450f1fc26e401bba0d6c29",
+    "published_at": "2026-11-16T12:57:50Z"
+  },
+  "display_name_i18n": {
+    "zh-CN": "JavLibrary",
+    "en": "JavLibrary"
+  },
+  "description_i18n": {
+    "zh-CN": "按番号从 JavLibrary 提供影片元数据、互动数与评论。",
+    "en": "Provides movie metadata, interaction stats and reviews from JavLibrary by movie number."
+  }
+}
