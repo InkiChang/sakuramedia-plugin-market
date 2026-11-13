@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T08:39:12Z",
+  "updated_at": "2026-11-15T13:31:47Z",
   "plugins": [
     {
       "plugin_id": "sakuramedia_115_provider",
@@ -14,11 +14,11 @@
       ],
       "official": true,
       "latest": {
-        "version": "0.3.4",
+        "version": "0.3.5",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_115_provider/releases/download/v0.3.4/sakuramedia_115_provider-0.3.4.zip",
-        "sha256": "672895945c41dde05f86b102c484dde233e58f45402dd370841a5a4a7c22eb83",
-        "published_at": "2026-11-12T08:22:11Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia_115_provider/releases/download/v0.3.5/sakuramedia_115_provider-0.3.5.zip",
+        "sha256": "8e8cafb472d438076ac1b214a99a6025636e2b86f5d714afd134936b357215ce",
+        "published_at": "2026-11-15T13:13:32Z"
       }
     },
     {
@@ -33,11 +33,38 @@
       ],
       "official": true,
       "latest": {
-        "version": "0.1.1",
+        "version": "0.2.0",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia-actor-metadata/releases/download/v0.1.1/sakuramedia_actor_metadata-0.1.1.zip",
-        "sha256": "f72d1a89b1ee0f0f233afe70eb772795ae691e839df2cd1467fa3d4ecbac33a2",
-        "published_at": "2026-11-14T03:37:13Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia-actor-metadata/releases/download/v0.2.0/sakuramedia_actor_metadata-0.2.0.zip",
+        "sha256": "67e1c435ff7b81b0d99d71f4bfa6cb76912f817ce2d03adbfada2b6417f90b4d",
+        "published_at": "2026-11-15T13:06:33Z"
+      }
+    },
+    {
+      "plugin_id": "sakuramedia_avmoo_metadata",
+      "display_name": "AVMOO",
+      "description": "按番号从 AVMOO 提供影片元数据，并支持订阅演员影片列表同步。",
+      "author": "tinypinglite",
+      "repo": "tinypinglite/sakuramedia_avmoo_metadata",
+      "homepage": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata",
+      "categories": [
+        "metadata"
+      ],
+      "official": true,
+      "latest": {
+        "version": "0.1.0",
+        "host_api_version": 18,
+        "download_url": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata/releases/download/v0.1.0/sakuramedia_avmoo_metadata-0.1.0.zip",
+        "sha256": "ada87fe90177771f00885f126f0be8e3418fce63ef8f8443a5e6668f4261b696",
+        "published_at": "2026-11-15T13:28:58Z"
+      },
+      "display_name_i18n": {
+        "zh-CN": "AVMOO",
+        "en": "AVMOO"
+      },
+      "description_i18n": {
+        "zh-CN": "按番号从 AVMOO 提供影片元数据，并支持订阅演员影片列表同步。",
+        "en": "Provides movie metadata from AVMOO by movie number and supports subscribed-actor movie list sync."
       }
     },
     {
@@ -197,7 +224,7 @@
     {
       "plugin_id": "sakuramedia_javdb_ranking",
       "display_name": "SakuraMedia JavDB 排行榜",
-      "description": "提供 JavDB 热播、高评分、有码、无码、FC2 免费榜及内置 TOP250 榜单，并注册定时同步任务。",
+      "description": "提供 JavDB 热播、高评分、有码、无码、FC2 榜单及 TOP250 榜单，并注册定时同步任务；需要 JavDB 账号。",
       "author": "tinyping",
       "repo": "tinypinglite/sakuramedia_javdb_ranking",
       "homepage": "https://github.com/tinypinglite/sakuramedia_javdb_ranking",
@@ -206,19 +233,19 @@
       ],
       "official": true,
       "latest": {
-        "version": "0.1.7",
+        "version": "0.1.8",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_javdb_ranking/releases/download/v0.1.7/sakuramedia_javdb_ranking-0.1.7.zip",
-        "sha256": "20f3425152769de6d96f73b7ac652dc13750a2f8c7d9952444b2fcdbecd49e1b",
-        "published_at": "2026-11-13T11:42:52Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia_javdb_ranking/releases/download/v0.1.8/sakuramedia_javdb_ranking-0.1.8.zip",
+        "sha256": "6dec2f4bcc5dc1fd212638a90f947f44e4c768c8205de7994d12e0676ac7bc27",
+        "published_at": "2026-11-15T12:12:50Z"
       },
       "display_name_i18n": {
         "zh-CN": "SakuraMedia JavDB 排行榜",
         "en": "SakuraMedia JavDB Rankings"
       },
       "description_i18n": {
-        "zh-CN": "提供 JavDB 热播、高评分、有码、无码、FC2 免费榜及内置 TOP250 榜单，并注册定时同步任务。",
-        "en": "Provides JavDB trending, top-rated, censored, uncensored and FC2 charts plus bundled TOP250 lists, and registers scheduled sync jobs."
+        "zh-CN": "提供 JavDB 热播、高评分、有码、无码、FC2 榜单及 TOP250 榜单，并注册定时同步任务；需要 JavDB 账号。",
+        "en": "Provides JavDB trending, top-rated, censored, uncensored and FC2 charts plus TOP250 lists, and registers scheduled sync jobs; requires a JavDB account."
       }
     },
     {
@@ -278,7 +305,7 @@
     {
       "plugin_id": "sakuramedia_more_rank_movies",
       "display_name": "SakuraMedia 更多影片榜单",
-      "description": "接入 Minnano AV 和 JavLibrary，提供 Minnano AV 日榜/周榜/月榜以及 JavLibrary 高评价、最想要榜单，并注册定时同步任务。",
+      "description": "接入 JavLibrary 与 MissAV，提供高评价、最想要以及今日、本周、本月热门榜单，并注册定时同步任务。",
       "author": "tinyping",
       "repo": "tinypinglite/sakuramedia_more_rank_movies",
       "homepage": "https://github.com/tinypinglite/sakuramedia_more_rank_movies",
@@ -287,19 +314,19 @@
       ],
       "official": true,
       "latest": {
-        "version": "0.0.8",
+        "version": "0.0.9",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_more_rank_movies/releases/download/v0.0.8/sakuramedia_more_rank_movies-0.0.8.zip",
-        "sha256": "9869421d56da80c6d72d3822e5cb09eaed1d84d08e2d6182359ea5fa0c81f858",
-        "published_at": "2026-11-14T06:22:54Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia_more_rank_movies/releases/download/v0.0.9/sakuramedia_more_rank_movies-0.0.9.zip",
+        "sha256": "fbd11426a8f2c8597ad960af251deb686cfaac05e806453720866a5dd52897a6",
+        "published_at": "2026-11-15T13:21:52Z"
       },
       "display_name_i18n": {
         "zh-CN": "SakuraMedia 更多影片榜单",
         "en": "SakuraMedia More Movie Rankings"
       },
       "description_i18n": {
-        "zh-CN": "接入 Minnano AV 和 JavLibrary，提供 Minnano AV 日榜/周榜/月榜以及 JavLibrary 高评价、最想要榜单，并注册定时同步任务。",
-        "en": "Connects to Minnano AV and JavLibrary, offering Minnano AV daily, weekly and monthly charts plus JavLibrary best-rated and most-wanted boards, and registers scheduled sync jobs."
+        "zh-CN": "接入 JavLibrary 与 MissAV，提供高评价、最想要以及今日、本周、本月热门榜单，并注册定时同步任务。",
+        "en": "Connects to JavLibrary and MissAV, offering best-rated, most-wanted, daily, weekly and monthly trending boards, and registers scheduled sync jobs."
       }
     },
     {
