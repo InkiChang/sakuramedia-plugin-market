@@ -1,7 +1,7 @@
 {
   "plugin_id": "sakuramedia_more_rank_movies",
   "display_name": "SakuraMedia 更多影片榜单",
-  "description": "接入 Minnano AV 和 JavLibrary，提供 Minnano AV 日榜/周榜/月榜以及 JavLibrary 高评价、最想要榜单，并注册定时同步任务。",
+  "description": "接入 JavLibrary 与 MissAV，提供高评价、最想要以及今日、本周、本月热门榜单，并注册定时同步任务。",
   "author": "tinyping",
   "repo": "tinypinglite/sakuramedia_more_rank_movies",
   "homepage": "https://github.com/tinypinglite/sakuramedia_more_rank_movies",
@@ -10,18 +10,18 @@
   ],
   "official": true,
   "latest": {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_more_rank_movies/releases/download/v0.0.8/sakuramedia_more_rank_movies-0.0.8.zip",
-    "sha256": "9869421d56da80c6d72d3822e5cb09eaed1d84d08e2d6182359ea5fa0c81f858",
-    "published_at": "2026-11-14T06:22:54Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia_more_rank_movies/releases/download/v0.0.9/sakuramedia_more_rank_movies-0.0.9.zip",
+    "sha256": "fbd11426a8f2c8597ad960af251deb686cfaac05e806453720866a5dd52897a6",
+    "published_at": "2026-11-15T13:21:52Z"
   },
   "display_name_i18n": {
     "zh-CN": "SakuraMedia 更多影片榜单",
     "en": "SakuraMedia More Movie Rankings"
   },
   "description_i18n": {
-    "zh-CN": "接入 Minnano AV 和 JavLibrary，提供 Minnano AV 日榜/周榜/月榜以及 JavLibrary 高评价、最想要榜单，并注册定时同步任务。",
-    "en": "Connects to Minnano AV and JavLibrary, offering Minnano AV daily, weekly and monthly charts plus JavLibrary best-rated and most-wanted boards, and registers scheduled sync jobs."
+    "zh-CN": "接入 JavLibrary 与 MissAV，提供高评价、最想要以及今日、本周、本月热门榜单，并注册定时同步任务。",
+    "en": "Connects to JavLibrary and MissAV, offering best-rated, most-wanted, daily, weekly and monthly trending boards, and registers scheduled sync jobs."
   }
 }

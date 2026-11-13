@@ -10,10 +10,10 @@
   ],
   "official": true,
   "latest": {
-    "version": "0.3.4",
+    "version": "0.3.5",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_115_provider/releases/download/v0.3.4/sakuramedia_115_provider-0.3.4.zip",
-    "sha256": "672895945c41dde05f86b102c484dde233e58f45402dd370841a5a4a7c22eb83",
-    "published_at": "2026-11-12T08:22:11Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia_115_provider/releases/download/v0.3.5/sakuramedia_115_provider-0.3.5.zip",
+    "sha256": "8e8cafb472d438076ac1b214a99a6025636e2b86f5d714afd134936b357215ce",
+    "published_at": "2026-11-15T13:13:32Z"
   }
 }
