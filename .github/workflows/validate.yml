@@ -4,13 +4,17 @@ on:
   pull_request:
     paths:
       - 'plugins/**'
+      - 'releases/**'
       - 'scripts/**'
       - 'schema/**'
       - '.github/workflows/validate.yml'
+      - '.github/workflows/pages.yml'
+      - '.github/workflows/sync-releases.yml'
   push:
     branches: [main]
     paths:
       - 'plugins/**'
+      - 'releases/**'
       - 'scripts/**'
       - 'schema/**'
 

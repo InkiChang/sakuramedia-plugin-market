@@ -55,7 +55,7 @@
     "repo": {
       "type": "string",
       "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",
-      "description": "公开的 GitHub 仓库（owner/name），Release 里提供插件 zip"
+      "description": "公开的 GitHub 仓库（owner/name）。source=market 时指向市场仓；source=external 时是插件源码仓，Release 里提供插件 zip"
     },
     "homepage": {
       "type": "string",
@@ -84,9 +84,18 @@
       "type": "boolean",
       "description": "官方维护的插件为 true，社区投稿为 false"
     },
+    "source": {
+      "type": "string",
+      "enum": [
+        "market",
+        "external"
+      ],
+      "default": "external",
+      "description": "market：官方插件，由市场仓 Release 分发编译产物，latest 由发版 Action 写入；external：社区插件，从 repo 的最新 Release 同步。缺省按 external 处理"
+    },
     "latest": {
       "type": "object",
-      "description": "由 scripts/build_index.py 从 GitHub Release 自动同步，投稿时不要手写",
+      "description": "由 scripts/build_index.py 或官方发版 Action 自动同步，投稿时不要手写",
       "additionalProperties": false,
       "required": [
         "version",
@@ -118,5 +127,24 @@
         }
       }
     }
-  }
+  },
+  "allOf": [
+    {
+      "if": {
+        "required": [
+          "source"
+        ],
+        "properties": {
+          "source": {
+            "const": "market"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "latest"
+        ]
+      }
+    }
+  ]
 }

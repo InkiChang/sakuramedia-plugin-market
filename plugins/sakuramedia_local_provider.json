@@ -3,12 +3,13 @@
   "display_name": "本地存储与 qBittorrent",
   "description": "接入本地媒体目录，提供手动导入、qBittorrent 下载、后端代理播放、缩略图和片段。",
   "author": "SakuraMedia",
-  "repo": "tinypinglite/sakuramedia_local_provider",
-  "homepage": "https://github.com/tinypinglite/sakuramedia_local_provider",
+  "repo": "tinypinglite/sakuramedia-plugin-market",
+  "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
   "categories": [
     "storage"
   ],
   "official": true,
+  "source": "market",
   "latest": {
     "version": "0.2.15",
     "host_api_version": 18,
