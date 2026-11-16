@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T13:31:47Z",
+  "updated_at": "2026-11-16T08:48:28Z",
   "plugins": [
     {
       "plugin_id": "sakuramedia_115_provider",
@@ -314,11 +314,11 @@
       ],
       "official": true,
       "latest": {
-        "version": "0.0.9",
+        "version": "0.0.10",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_more_rank_movies/releases/download/v0.0.9/sakuramedia_more_rank_movies-0.0.9.zip",
-        "sha256": "fbd11426a8f2c8597ad960af251deb686cfaac05e806453720866a5dd52897a6",
-        "published_at": "2026-11-15T13:21:52Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia_more_rank_movies/releases/download/v0.0.10/sakuramedia_more_rank_movies-0.0.10.zip",
+        "sha256": "7b8f4b541207c0ecded5fa0c8b764d452971917ea40555641a7234be7d9a0dd3",
+        "published_at": "2026-11-15T13:46:39Z"
       },
       "display_name_i18n": {
         "zh-CN": "SakuraMedia 更多影片榜单",
