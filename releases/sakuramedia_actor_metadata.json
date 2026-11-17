@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.2.1",
+  "name": "SakuraMedia 女优资料补全 v0.2.1",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T06:54:26Z",
+  "assets": [
+    {
+      "name": "sakuramedia_actor_metadata-0.2.1.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_actor_metadata-v0.2.1/sakuramedia_actor_metadata-0.2.1.zip",
+      "digest": "sha256:c4315c8d6f375321bc30771f525c538e7dc430dae3f2e048b565d5fe25c66bb0"
+    }
+  ]
+}
