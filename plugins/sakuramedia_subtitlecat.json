@@ -3,17 +3,18 @@
   "display_name": "SakuraMedia SubtitleCat 中文字幕",
   "description": "为已有影片抓取 zh-CN 字幕，支持手动抓取单部影片和定时处理已订阅影片。",
   "author": "tinypinglite",
-  "repo": "tinypinglite/sakuramedia_subtitlecat",
-  "homepage": "https://github.com/tinypinglite/sakuramedia_subtitlecat",
+  "repo": "tinypinglite/sakuramedia-plugin-market",
+  "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
   "categories": [
     "subtitle"
   ],
   "official": true,
   "latest": {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_subtitlecat/releases/download/v0.2.5/sakuramedia_subtitlecat-0.2.5.zip",
-    "sha256": "18babe4f34ffb0589e34568c479ed31a67ce2d08ed9a0628022e67e367e4cf59",
-    "published_at": "2026-11-12T08:22:32Z"
-  }
+    "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_subtitlecat-v0.2.6/sakuramedia_subtitlecat-0.2.6.zip",
+    "sha256": "0a51226952548d164f828ec3c3ee9a2d243a59bb8dd4ad9c190eeda54501d1b4",
+    "published_at": "2026-11-17T07:16:41Z"
+  },
+  "source": "market"
 }

@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.2.6",
+  "name": "SakuraMedia SubtitleCat 中文字幕 v0.2.6",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T07:16:41Z",
+  "assets": [
+    {
+      "name": "sakuramedia_subtitlecat-0.2.6.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_subtitlecat-v0.2.6/sakuramedia_subtitlecat-0.2.6.zip",
+      "digest": "sha256:0a51226952548d164f828ec3c3ee9a2d243a59bb8dd4ad9c190eeda54501d1b4"
+    }
+  ]
+}
