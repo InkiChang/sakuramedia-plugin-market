@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.1.1",
+  "name": "FC2CMADB v0.1.1",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T07:01:10Z",
+  "assets": [
+    {
+      "name": "sakuramedia_fc2cmadb_metadata-0.1.1.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_fc2cmadb_metadata-v0.1.1/sakuramedia_fc2cmadb_metadata-0.1.1.zip",
+      "digest": "sha256:0d52d25556b8f899fe8c0e6478409f9171b1ac6826375b29809aae7b3538621c"
+    }
+  ]
+}
