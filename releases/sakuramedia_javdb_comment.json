@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.1.1",
+  "name": "SakuraMedia JavDB 评论 v0.1.1",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T07:05:30Z",
+  "assets": [
+    {
+      "name": "sakuramedia_javdb_comment-0.1.1.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_javdb_comment-v0.1.1/sakuramedia_javdb_comment-0.1.1.zip",
+      "digest": "sha256:fe340fd8c8ed44077069431c1810d3ddc5134d65b57729632155d017a6eeae15"
+    }
+  ]
+}
