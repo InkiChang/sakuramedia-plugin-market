@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T07:01:12Z",
+  "updated_at": "2026-11-17T07:01:58Z",
   "plugins": [
     {
       "plugin_id": "sakuramedia_115_provider",
@@ -179,18 +179,18 @@
       "display_name": "JavBus",
       "description": "按番号从 JavBus 提供影片元数据，并支持订阅演员影片列表同步。",
       "author": "SakuraMedia",
-      "repo": "tinypinglite/sakuramedia_javbus_metadata",
-      "homepage": "https://github.com/tinypinglite/sakuramedia_javbus_metadata",
+      "repo": "tinypinglite/sakuramedia-plugin-market",
+      "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
       "categories": [
         "metadata"
       ],
       "official": true,
       "latest": {
-        "version": "0.3.0",
+        "version": "0.3.1",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_javbus_metadata/releases/download/v0.3.0/sakuramedia_javbus_metadata-0.3.0.zip",
-        "sha256": "a903f015ab366e7de54c46f5c4b2c70aa6c2d13952021872b30728509f529f3d",
-        "published_at": "2026-11-16T12:56:13Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_javbus_metadata-v0.3.1/sakuramedia_javbus_metadata-0.3.1.zip",
+        "sha256": "b0954e84af58eb7562cd3ee6b5b548d171d71ae1212d4b5526f0d2aa3e9d3bba",
+        "published_at": "2026-11-17T07:01:57Z"
       },
       "display_name_i18n": {
         "zh-CN": "JavBus",
@@ -199,7 +199,8 @@
       "description_i18n": {
         "zh-CN": "按番号从 JavBus 提供影片元数据，并支持订阅演员影片列表同步。",
         "en": "Provides movie metadata from JavBus by movie number and supports subscribed-actor movie list sync."
-      }
+      },
+      "source": "market"
     },
     {
       "plugin_id": "sakuramedia_javdb_comment",

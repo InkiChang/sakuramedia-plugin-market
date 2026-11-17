@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.3.1",
+  "name": "JavBus v0.3.1",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T07:01:57Z",
+  "assets": [
+    {
+      "name": "sakuramedia_javbus_metadata-0.3.1.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_javbus_metadata-v0.3.1/sakuramedia_javbus_metadata-0.3.1.zip",
+      "digest": "sha256:b0954e84af58eb7562cd3ee6b5b548d171d71ae1212d4b5526f0d2aa3e9d3bba"
+    }
+  ]
+}
