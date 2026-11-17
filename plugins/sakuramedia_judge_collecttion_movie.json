@@ -3,18 +3,18 @@
   "display_name": "按时长/番号特征/标签判定合集影片",
   "description": "按影片时长和番号前缀自动标记合集影片，不覆盖 App 内的手动判定。",
   "author": "SakuraMedia",
-  "repo": "tinypinglite/sakuramedia_judge_collecttion_movie",
-  "homepage": "https://github.com/tinypinglite/sakuramedia_judge_collecttion_movie",
+  "repo": "tinypinglite/sakuramedia-plugin-market",
+  "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
   "categories": [
     "automation"
   ],
   "official": true,
   "latest": {
-    "version": "0.2.8",
+    "version": "0.2.9",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_judge_collecttion_movie/releases/download/v0.2.8/sakuramedia_judge_collecttion_movie-0.2.8.zip",
-    "sha256": "f096f833ea15d65c2a41c2e54a509229c400e12ba85182e05e7b853b46df5268",
-    "published_at": "2026-11-12T08:22:26Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_judge_collecttion_movie-v0.2.9/sakuramedia_judge_collecttion_movie-0.2.9.zip",
+    "sha256": "2148b33ab612ca689e960934e935a2f477ad8b5aa049c10c550d4d19687ba009",
+    "published_at": "2026-11-17T07:09:13Z"
   },
   "display_name_i18n": {
     "zh-CN": "按时长/番号特征/标签判定合集影片",
@@ -23,5 +23,6 @@
   "description_i18n": {
     "zh-CN": "按影片时长和番号前缀自动标记合集影片，不覆盖 App 内的手动判定。",
     "en": "Automatically marks collection movies by duration and number prefix, without overriding manual decisions made in the app."
-  }
+  },
+  "source": "market"
 }
