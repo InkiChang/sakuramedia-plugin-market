@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T06:54:27Z",
+  "updated_at": "2026-11-17T06:57:37Z",
   "plugins": [
     {
       "plugin_id": "sakuramedia_115_provider",
@@ -75,18 +75,18 @@
       "display_name": "DMM / FANZA",
       "description": "按番号从 DMM / FANZA 提供影片元数据。",
       "author": "SakuraMedia",
-      "repo": "tinypinglite/sakuramedia_dmm_metadata",
-      "homepage": "https://github.com/tinypinglite/sakuramedia_dmm_metadata",
+      "repo": "tinypinglite/sakuramedia-plugin-market",
+      "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
       "categories": [
         "metadata"
       ],
       "official": true,
       "latest": {
-        "version": "0.1.1",
+        "version": "0.1.2",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_dmm_metadata/releases/download/v0.1.1/sakuramedia_dmm_metadata-0.1.1.zip",
-        "sha256": "85e42ce5e5a02a6ec04df94b40e54efabfa9de126c0f9c485d66c218f13c7020",
-        "published_at": "2026-11-13T13:56:15Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_dmm_metadata-v0.1.2/sakuramedia_dmm_metadata-0.1.2.zip",
+        "sha256": "aa9b68d49c5c176af165a554fa00f542c83c9de4f9f3a64f430ed6409759ae20",
+        "published_at": "2026-11-17T06:57:35Z"
       },
       "display_name_i18n": {
         "zh-CN": "DMM / FANZA",
@@ -95,7 +95,8 @@
       "description_i18n": {
         "zh-CN": "按番号从 DMM / FANZA 提供影片元数据。",
         "en": "Provides movie metadata from DMM / FANZA by movie number."
-      }
+      },
+      "source": "market"
     },
     {
       "plugin_id": "sakuramedia_fc2_metadata",

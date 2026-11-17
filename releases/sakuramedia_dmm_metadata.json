@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.1.2",
+  "name": "DMM / FANZA v0.1.2",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T06:57:35Z",
+  "assets": [
+    {
+      "name": "sakuramedia_dmm_metadata-0.1.2.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_dmm_metadata-v0.1.2/sakuramedia_dmm_metadata-0.1.2.zip",
+      "digest": "sha256:aa9b68d49c5c176af165a554fa00f542c83c9de4f9f3a64f430ed6409759ae20"
+    }
+  ]
+}
