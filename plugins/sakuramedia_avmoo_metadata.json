@@ -3,18 +3,18 @@
   "display_name": "AVMOO",
   "description": "按番号从 AVMOO 提供影片元数据，并支持订阅演员影片列表同步。",
   "author": "tinypinglite",
-  "repo": "tinypinglite/sakuramedia_avmoo_metadata",
-  "homepage": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata",
+  "repo": "tinypinglite/sakuramedia-plugin-market",
+  "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
   "categories": [
     "metadata"
   ],
   "official": true,
   "latest": {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_avmoo_metadata/releases/download/v0.2.0/sakuramedia_avmoo_metadata-0.2.0.zip",
-    "sha256": "fc0934de91d6f743767b9b3e41c43beb5ad3d45d43e1a6a00d7bcd05f97ed2a0",
-    "published_at": "2026-11-16T11:59:33Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_avmoo_metadata-v0.2.1/sakuramedia_avmoo_metadata-0.2.1.zip",
+    "sha256": "ea12e118ef51d1d2d7754062f016d71e965c6b47f07387fff955cf8be07f5373",
+    "published_at": "2026-11-17T06:53:56Z"
   },
   "display_name_i18n": {
     "zh-CN": "AVMOO",
@@ -23,5 +23,6 @@
   "description_i18n": {
     "zh-CN": "按番号从 AVMOO 提供影片元数据，并支持订阅演员影片列表同步。",
     "en": "Provides movie metadata from AVMOO by movie number and supports subscribed-actor movie list sync."
-  }
+  },
+  "source": "market"
 }
