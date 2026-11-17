@@ -11,11 +11,11 @@
   "official": true,
   "source": "market",
   "latest": {
-    "version": "0.2.15",
+    "version": "0.2.16",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_local_provider/releases/download/v0.2.15/sakuramedia_local_provider-0.2.15.zip",
-    "sha256": "430c85e23045cad603d9fc160796234808bda9ab9274af4d1d1ba2b25e5df76b",
-    "published_at": "2026-11-12T08:22:21Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_local_provider-v0.2.16/sakuramedia_local_provider-0.2.16.zip",
+    "sha256": "4b31e3423e6bef2e7a0e0ffcacd3b1aac9e89a968e727af6ad7fd5b2763a5c66",
+    "published_at": "2026-11-17T06:00:23Z"
   },
   "display_name_i18n": {
     "zh-CN": "本地存储与 qBittorrent",
