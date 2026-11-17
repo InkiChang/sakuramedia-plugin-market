@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.3.6",
+  "name": "115 网盘 v0.3.6",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T05:58:49Z",
+  "assets": [
+    {
+      "name": "sakuramedia_115_provider-0.3.6.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_115_provider-v0.3.6/sakuramedia_115_provider-0.3.6.zip",
+      "digest": "sha256:64b7ca2285b50599798c5716120dfa852a37e495f4450026d665e0d3011fb8e8"
+    }
+  ]
+}
