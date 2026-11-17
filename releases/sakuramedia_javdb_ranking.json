@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.1.9",
+  "name": "SakuraMedia JavDB 排行榜 v0.1.9",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T07:06:16Z",
+  "assets": [
+    {
+      "name": "sakuramedia_javdb_ranking-0.1.9.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_javdb_ranking-v0.1.9/sakuramedia_javdb_ranking-0.1.9.zip",
+      "digest": "sha256:22ed9a0e67c2a443abe9d92601ab0c3a21b4d322ebfa17e4b87b1326c329163b"
+    }
+  ]
+}

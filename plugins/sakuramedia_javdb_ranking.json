@@ -3,18 +3,18 @@
   "display_name": "SakuraMedia JavDB 排行榜",
   "description": "提供 JavDB 热播、高评分、有码、无码、FC2 榜单及 TOP250 榜单，并注册定时同步任务；需要 JavDB 账号。",
   "author": "tinyping",
-  "repo": "tinypinglite/sakuramedia_javdb_ranking",
-  "homepage": "https://github.com/tinypinglite/sakuramedia_javdb_ranking",
+  "repo": "tinypinglite/sakuramedia-plugin-market",
+  "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
   "categories": [
     "discovery"
   ],
   "official": true,
   "latest": {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_javdb_ranking/releases/download/v0.1.8/sakuramedia_javdb_ranking-0.1.8.zip",
-    "sha256": "6dec2f4bcc5dc1fd212638a90f947f44e4c768c8205de7994d12e0676ac7bc27",
-    "published_at": "2026-11-15T12:12:50Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_javdb_ranking-v0.1.9/sakuramedia_javdb_ranking-0.1.9.zip",
+    "sha256": "22ed9a0e67c2a443abe9d92601ab0c3a21b4d322ebfa17e4b87b1326c329163b",
+    "published_at": "2026-11-17T07:06:16Z"
   },
   "display_name_i18n": {
     "zh-CN": "SakuraMedia JavDB 排行榜",
@@ -23,5 +23,6 @@
   "description_i18n": {
     "zh-CN": "提供 JavDB 热播、高评分、有码、无码、FC2 榜单及 TOP250 榜单，并注册定时同步任务；需要 JavDB 账号。",
     "en": "Provides JavDB trending, top-rated, censored, uncensored and FC2 charts plus TOP250 lists, and registers scheduled sync jobs; requires a JavDB account."
-  }
+  },
+  "source": "market"
 }
