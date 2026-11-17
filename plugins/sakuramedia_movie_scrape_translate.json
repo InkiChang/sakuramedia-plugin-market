@@ -3,17 +3,18 @@
   "display_name": "SakuraMedia 影片文案抓取与翻译",
   "description": "从 DMM 抓取影片的日文标题和简介，可选翻译成中文后写回影片标题与简介。",
   "author": "tinyping",
-  "repo": "tinypinglite/sakuramedia_movie_scrape_translate",
-  "homepage": "https://github.com/tinypinglite/sakuramedia_movie_scrape_translate",
+  "repo": "tinypinglite/sakuramedia-plugin-market",
+  "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
   "categories": [
     "metadata"
   ],
   "official": true,
   "latest": {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_movie_scrape_translate/releases/download/v0.0.3/sakuramedia_movie_scrape_translate-0.0.3.zip",
-    "sha256": "a40ae56e23bb58f831d2b22a56d835ae4cc4554f29a47974ccaff95b39f34e1c",
-    "published_at": "2026-11-12T10:58:17Z"
-  }
+    "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_movie_scrape_translate-v0.0.4/sakuramedia_movie_scrape_translate-0.0.4.zip",
+    "sha256": "7607455f16e77edb3277ac7f375ca3909637849a2ebf857d1c32cb724219f1ee",
+    "published_at": "2026-11-17T07:13:33Z"
+  },
+  "source": "market"
 }

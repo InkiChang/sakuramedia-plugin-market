@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.0.4",
+  "name": "SakuraMedia 影片文案抓取与翻译 v0.0.4",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T07:13:33Z",
+  "assets": [
+    {
+      "name": "sakuramedia_movie_scrape_translate-0.0.4.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_movie_scrape_translate-v0.0.4/sakuramedia_movie_scrape_translate-0.0.4.zip",
+      "digest": "sha256:7607455f16e77edb3277ac7f375ca3909637849a2ebf857d1c32cb724219f1ee"
+    }
+  ]
+}
