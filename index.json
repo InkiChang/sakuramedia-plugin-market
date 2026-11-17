@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T07:09:45Z",
+  "updated_at": "2026-11-17T07:13:05Z",
   "plugins": [
     {
       "plugin_id": "sakuramedia_115_provider",
@@ -347,18 +347,18 @@
       "display_name": "SakuraMedia 更多影片榜单",
       "description": "接入 JavLibrary 与 MissAV，提供高评价、最想要以及今日、本周、本月热门榜单，并注册定时同步任务。",
       "author": "tinyping",
-      "repo": "tinypinglite/sakuramedia_more_rank_movies",
-      "homepage": "https://github.com/tinypinglite/sakuramedia_more_rank_movies",
+      "repo": "tinypinglite/sakuramedia-plugin-market",
+      "homepage": "https://tinypinglite.github.io/sakuramedia-plugin-market/",
       "categories": [
         "discovery"
       ],
       "official": true,
       "latest": {
-        "version": "0.0.10",
+        "version": "0.0.11",
         "host_api_version": 18,
-        "download_url": "https://github.com/tinypinglite/sakuramedia_more_rank_movies/releases/download/v0.0.10/sakuramedia_more_rank_movies-0.0.10.zip",
-        "sha256": "7b8f4b541207c0ecded5fa0c8b764d452971917ea40555641a7234be7d9a0dd3",
-        "published_at": "2026-11-15T13:46:39Z"
+        "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_more_rank_movies-v0.0.11/sakuramedia_more_rank_movies-0.0.11.zip",
+        "sha256": "731b2b7a34b314074fe871d142e2926b724435b78e8c33043c17c0fddc9d9f92",
+        "published_at": "2026-11-17T07:13:03Z"
       },
       "display_name_i18n": {
         "zh-CN": "SakuraMedia 更多影片榜单",
@@ -367,7 +367,8 @@
       "description_i18n": {
         "zh-CN": "接入 JavLibrary 与 MissAV，提供高评价、最想要以及今日、本周、本月热门榜单，并注册定时同步任务。",
         "en": "Connects to JavLibrary and MissAV, offering best-rated, most-wanted, daily, weekly and monthly trending boards, and registers scheduled sync jobs."
-      }
+      },
+      "source": "market"
     },
     {
       "plugin_id": "sakuramedia_movie_scrape_translate",

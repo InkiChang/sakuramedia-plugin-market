@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.0.11",
+  "name": "SakuraMedia 更多影片榜单 v0.0.11",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T07:13:03Z",
+  "assets": [
+    {
+      "name": "sakuramedia_more_rank_movies-0.0.11.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_more_rank_movies-v0.0.11/sakuramedia_more_rank_movies-0.0.11.zip",
+      "digest": "sha256:731b2b7a34b314074fe871d142e2926b724435b78e8c33043c17c0fddc9d9f92"
+    }
+  ]
+}
