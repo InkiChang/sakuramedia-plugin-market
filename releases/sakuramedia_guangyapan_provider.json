@@ -1,0 +1,13 @@
+{
+  "tag_name": "v0.1.6",
+  "name": "光鸭云盘 v0.1.6",
+  "body": "官方编译版：Nuitka 编译，支持 linux/amd64 与 linux/arm64；由 GitHub Release 自动构建并分发。",
+  "published_at": "2026-11-17T05:59:34Z",
+  "assets": [
+    {
+      "name": "sakuramedia_guangyapan_provider-0.1.6.zip",
+      "browser_download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_guangyapan_provider-v0.1.6/sakuramedia_guangyapan_provider-0.1.6.zip",
+      "digest": "sha256:ce37f648a5b0dfa7a46c3e47d84d27b6fc90c903f19a462ab8103224ec2eb009"
+    }
+  ]
+}

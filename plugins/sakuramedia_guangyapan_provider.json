@@ -11,10 +11,10 @@
   "official": true,
   "source": "market",
   "latest": {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "host_api_version": 18,
-    "download_url": "https://github.com/tinypinglite/sakuramedia_guangyapan_provider/releases/download/v0.1.5/sakuramedia_guangyapan_provider-0.1.5.zip",
-    "sha256": "ade29f44a6024940d9f2dd8fbc7ce90c0e5f7e5ecce4d99cd379a15f560c6106",
-    "published_at": "2026-11-14T15:25:22Z"
+    "download_url": "https://github.com/tinypinglite/sakuramedia-plugin-market/releases/download/sakuramedia_guangyapan_provider-v0.1.6/sakuramedia_guangyapan_provider-0.1.6.zip",
+    "sha256": "ce37f648a5b0dfa7a46c3e47d84d27b6fc90c903f19a462ab8103224ec2eb009",
+    "published_at": "2026-11-17T05:59:34Z"
   }
 }
