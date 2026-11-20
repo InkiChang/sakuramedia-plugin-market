@@ -5,7 +5,7 @@
 Index repository for the SakuraMedia plugin market. SakuraMedia clients read this repository's [`index.json`](index.json) from "System Settings → Plugins → Plugin Market" to display the plugin list, download packages, and install or update plugins with one click.
 
 - Default market source: `https://raw.githubusercontent.com/tinypinglite/sakuramedia-plugin-market/main/index.json`
-- Plugins run inside the SakuraMedia backend process. Official plugins are distributed as compiled artifacts through Releases in this repository; community plugins point to release packages in their public repositories.
+- Plugins run inside the SakuraMedia backend process. Most official plugins are distributed as compiled artifacts through Releases in this repository; `sakuramedia_local_provider` is open source and publishes its packages in its own public repository, while this repository only indexes it. Community plugins point to release packages in their public repositories.
 
 ## Submitting a plugin
 
@@ -25,7 +25,7 @@ Index repository for the SakuraMedia plugin market. SakuraMedia clients read thi
    ```
 
 2. Do not hardcode the `latest` field for community plugins: the index maintenance workflow automatically syncs the version, download URL, and SHA-256 from the repository's latest Release every day. Versions must use the three-part `x.y.z` format, and each Release must contain only one `.zip` plugin package (an optional `.sha256` file may be included). `source` can be omitted and defaults to `external`.
-3. Submit a Pull Request to this repository explaining the plugin's purpose and repository URL. Official plugins are written automatically by maintainers through the release Action in a private monorepo, and external PRs modifying them are not accepted.
+3. Submit a Pull Request to this repository explaining the plugin's purpose and repository URL. Official plugins are written automatically by maintainers (most through the release Action in a private monorepo; `sakuramedia_local_provider` from its public source repository), and external PRs modifying them are not accepted.
 
 Available categories: `storage` (storage / downloads), `metadata` (metadata), `discovery` (rankings / discovery), `automation` (automated tasks), `subtitle` (subtitles), and `other`.
 
@@ -42,11 +42,11 @@ The **plugin manifest is the single source of truth** for multilingual plugin na
 
 ## Manual installation
 
-Without the plugin market, you can download official plugin `.zip` files from this repository's Releases page and community plugins from their public repositories' Releases pages, then upload them manually in "System Settings → Plugins." Restart the SakuraMedia container after installing or updating a plugin.
+Without the plugin market, you can download most official plugin `.zip` files from this repository's Releases page, `sakuramedia_local_provider` from its own repository's Releases page, and community plugins from their public repositories' Releases pages, then upload them manually in "System Settings → Plugins." Restart the SakuraMedia container after installing or updating a plugin.
 
 ## Security notice
 
-Plugins run inside the SakuraMedia backend process and have access to every capability exposed by the host. Only install plugins from trusted sources. Official plugins are compiled artifacts, so their source cannot be audited directly. Community plugins are published as source and are not officially audited; review their source before installing.
+Plugins run inside the SakuraMedia backend process and have access to every capability exposed by the host. Only install plugins from trusted sources. Most official plugins are compiled artifacts, so their source cannot be audited directly; `sakuramedia_local_provider` publishes its source and can be audited. Community plugins are published as source and are not officially audited; review their source before installing.
 
 ## License
 

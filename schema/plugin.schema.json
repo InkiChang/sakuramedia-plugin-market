@@ -91,7 +91,7 @@
         "external"
       ],
       "default": "external",
-      "description": "market：官方插件，由市场仓 Release 分发编译产物，latest 由发版 Action 写入；external：社区插件，从 repo 的最新 Release 同步。缺省按 external 处理"
+      "description": "market：官方插件，由市场仓 Release 分发编译产物，latest 由发版 Action 写入；external：社区插件或独立公开仓的官方插件，从 repo 的最新 Release 同步。缺省按 external 处理"
     },
     "latest": {
       "type": "object",
